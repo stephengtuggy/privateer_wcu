@@ -25315,7 +25315,6 @@
         "Shield_Efficiency": "0",
         "Collide_Subunits": "0"
     },
-    {},
     {
         "Key": "arid__planets",
         "Directory": "./factions/planets/desert",
